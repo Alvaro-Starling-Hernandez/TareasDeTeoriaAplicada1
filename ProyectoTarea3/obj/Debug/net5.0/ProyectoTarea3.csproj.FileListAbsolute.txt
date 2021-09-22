@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\bin\Debug\net5.0\ProyectoTarea3.exe
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\bin\Debug\net5.0\ProyectoTarea3.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\bin\Debug\net5.0\ProyectoTarea3.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\bin\Debug\net5.0\ProyectoTarea3.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\bin\Debug\net5.0\ProyectoTarea3.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\bin\Debug\net5.0\ref\ProyectoTarea3.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\bin\Debug\net5.0\ProyectoTarea3.pdb
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ref\ProyectoTarea3.dll
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.pdb
+C:\Users\alvar\OneDrive\Escritorio\Alvaro-PC\Aplicada1\Tareas\ProyectoTarea3\obj\Debug\net5.0\ProyectoTarea3.genruntimeconfig.cache
