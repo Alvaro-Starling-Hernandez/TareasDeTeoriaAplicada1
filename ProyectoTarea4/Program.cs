@@ -12,7 +12,7 @@ namespace ProyectoTarea4
             {
                 Console.Clear();
                 Console.WriteLine("~~ Capitulos de la tarea ~~");
-                Console.WriteLine("1. Capitulo 8\n2. Salir");
+                Console.WriteLine("1. Capitulo 8\n2. Capitulo 9\n3. Salir");
                 Console.Write("Opcion: ");
                 valor = Console.ReadLine();
                 opcion = Convert.ToInt32(valor);
@@ -59,15 +59,59 @@ namespace ProyectoTarea4
 
                         break;
                     case 2:
+                        int opcion3 = 0;
+
+                        do
+                        {
+                            Console.Clear();
+                            Console.WriteLine("~~ Ejercicios del Capitulo 9 ~~");
+                            Console.WriteLine("1. Ejercicio 1\n2. Ejercicio 3\n3. Ejercicio 4\n4. Atras");
+                            Console.Write("Opcion: ");
+                            valor = Console.ReadLine();
+                            opcion3 = Convert.ToInt32(valor);
+
+                            switch (opcion3)
+                            {
+                                case 1:
+                                    Console.Clear();
+                                    Capitulo9.Ejercicio1();
+                                    Console.Write("Presione ENTER para continuar...");
+                                    Console.ReadLine();
+                                    break;
+                                case 2:
+                                    Console.Clear();
+                                    Capitulo9.Ejercicio3();
+                                    Console.Write("Presione ENTER para continuar...");
+                                    Console.ReadLine();
+                                    break;
+                                case 3:
+                                    Console.Clear();
+                                    Capitulo9.Ejercicio4();
+                                    Console.Write("Presione ENTER para continuar...");
+                                    Console.ReadLine();
+                                    break;
+                                case 4:
+                                    break;
+                                default:
+                                    Console.WriteLine("Opcion incorrecta!");
+                                    if (opcion3 != 4)
+                                        Console.Write("Presione ENTER para continuar...");
+                                    Console.ReadLine();
+                                    break;
+
+                            }
+                        } while (opcion3 != 4 || opcion3 < 4 && opcion3 > 0);
+                        break;
+                    case 3:
                         return;
                     default:
                         Console.WriteLine("Opcion incorrecta!");
-                        if (opcion != 2)
+                        if (opcion != 3)
                             Console.Write("Presione ENTER para continuar...");
                         Console.ReadLine();
                         break;
                 }
-            } while (opcion!=2);
+            } while (opcion!=3 || opcion < 3 && opcion > 0);
         }
     }
 }

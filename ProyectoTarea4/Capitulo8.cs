@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoTarea4
 {
-    class Capitulo8
+    public class Capitulo8
     {
        public static void Ejercico3()
         {
